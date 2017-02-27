@@ -1,4 +1,5 @@
 /**
+ * Create an object of key value pair with info form li tags.
  * @return {object} key value pair object from li elments.
  */
 function findDetailInfo() {
